@@ -1,0 +1,7 @@
+historia
+ :
+
+historia de nuevo
+:q
+
+
