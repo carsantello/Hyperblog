@@ -6,4 +6,4 @@ ahora tenemos un nuevo cambio
 
 aqui estamos modificando para ver como se cambia el log de git
 
-ahora vamos a trabajar en la nueva rama, mastwo
+ahora vamos a trabajar en la nueva rama, mastwor
