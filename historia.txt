@@ -1,2 +1,7 @@
 
-hola, archivo de prueba
+hola, archivo de prueba 
+veamos como es que se trabaja....
+
+ahora tenemos un nuevo cambio
+
+aqui estamos modificando para ver como se cambia el log de git
