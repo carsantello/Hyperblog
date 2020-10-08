@@ -1,2 +1,2 @@
-estamos verificando l<<<<<<<<<<<<<<a generacion del error por diferencias al momento de fusionar
+estamos verificando la generacion del error por diferencias al momento de fusionar
 ejecucion numero 1 / seguida de ejecucion 2 en mastwo / pero a este punto no hice ningun commit, solo merge a este archivo en ambas ramas
