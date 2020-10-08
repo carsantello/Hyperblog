@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 hola, archivo de prueba 
 veamos como es que se trabaja....
@@ -7,5 +8,15 @@ ahora tenemos un nuevo cambio
 aqui estamos modificando para ver como se cambia el log de git
 
 pero esta linea es la que he agregado: ahora vamos a trabajar en la nueva rama, -------
+=======
+historia
+ :
+
+historia de nuevo
+:q
+
+Carlos Snchez Botello
+ingeniero de software
+>>>>>>> 947b9f9df719d1c5b5fd34852b3b0b6d7238acb2
 
 
