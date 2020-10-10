@@ -7,6 +7,7 @@ ahora tenemos un nuevo cambio
 
 aqui estamos modificando para ver como se cambia el log de git
 
+**ESTA ES LA LINEA QUE ESTAMOS INGRESANDO EN COLABORACION CON CARSANTELO**
 
 pero esta linea es la que he agregado: ahora vamos a trabajar en la nueva rama, -------
 =======
